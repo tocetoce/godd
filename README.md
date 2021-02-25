@@ -1,0 +1,2 @@
+# kanter-strajk
+AXA
