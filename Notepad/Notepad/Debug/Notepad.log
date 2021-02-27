@@ -1,0 +1,3 @@
+﻿  pcc.cpp
+E:\c++\Notepad\Notepad\pcc.cpp(29): warning C4715: 'GetModuleBaseAddress': not all control paths return a value
+  Notepad.vcxproj -> E:\c++\Notepad\Debug\Notepad.exe
